@@ -12,7 +12,7 @@ While working on version 4 of profanitycounter, I was getting tired of the exist
 
 # Description
 
-[u/profanitycounter](https://www.reddit.com/u/profanitycounter`) started as a fun personal project sprung out of sheer boredom. I wanted to solidify my understand of Python at the time, and I thought making this ~~monstosity~~ bot would be a fun thing to do. Lo and behold, over two years later profanitycounter is chugging along just fine, and has become an incredibly popular tool among the Reddit community. 
+[u/profanitycounter](https://www.reddit.com/u/profanitycounter) started as a fun personal project sprung out of sheer boredom. I wanted to solidify my understand of Python at the time, and I thought making this ~~monstosity~~ bot would be a fun thing to do. Lo and behold, over two years later profanitycounter is chugging along just fine, and has become an incredibly popular tool among the Reddit community. 
 
 What does the bot do? Well, profanitycounter provides automatic profanity reports to any user, about any user. A simple concept to say the least.
 
