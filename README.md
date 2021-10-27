@@ -21,7 +21,7 @@ What does the bot do? Well, profanitycounter provides automatic profanity report
 
 Using the bot is as simple as summoning it in a reply to any public post or comment. Note that the bot cannot "see" its summons in communities that are private and that my bot is not a member of. If the bot is banned or restricted in a communtiy it *can* see its summons in, it will send you a private message with the report you requested. 
 
-Current, profanitycounter supports a few modifiers:
+Currently, profanitycounter supports a few modifiers:
 * `u/profanitycounter [self]` will check your own profanity no matter where you summon it. 
 * `u/profanitycounter [u/<username>]` will check the profanity of the user with the username \<username>.
 * `u/profanitycounter [r/<subredditname>]` will check the profanity of the subreddit with the name \<subredditname>.
