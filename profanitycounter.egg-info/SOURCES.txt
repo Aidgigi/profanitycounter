@@ -1,0 +1,7 @@
+README.md
+setup.py
+profanitycounter/__init__.py
+profanitycounter.egg-info/PKG-INFO
+profanitycounter.egg-info/SOURCES.txt
+profanitycounter.egg-info/dependency_links.txt
+profanitycounter.egg-info/top_level.txt
